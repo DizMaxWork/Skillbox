@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Name from './components/Name/Name';
+import FunctionalName from './components/FunctionalName/FunctionalName';
+
 
 function App() {
   return (
     <div>
-      <Name />
+      <FunctionalName />
     </div>
   );
 }
