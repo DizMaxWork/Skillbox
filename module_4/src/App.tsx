@@ -1,13 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import FunctionalName from './components/FunctionalName/FunctionalName';
+import LifeCicle from './components/LifeCicle/LifeCicle';
 
 
 function App() {
   return (
     <div>
-      <FunctionalName />
+      <LifeCicle />
     </div>
   );
 }
